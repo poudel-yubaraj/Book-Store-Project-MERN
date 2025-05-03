@@ -1,0 +1,37 @@
+.main{
+  background-color:white;
+  
+}
+.heading{
+  display: flex;
+  justify-content: center;
+}
+.add-button{
+  
+  color:red;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px;
+}
+.table-design table{
+  border-style:separate;
+  width: 100%;
+  
+}
+.operation{
+  display: flex;
+}
+
+.input-field{
+  width: 500px;
+  margin-left: 400px;
+
+}
+.input-title input{
+  width: 500px;
+  padding: 10px;
+  border-radius: 2px;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+}
